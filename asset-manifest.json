@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stoic-quotes/static/css/main.6c1811f7.css",
+    "main.js": "/stoic-quotes/static/js/main.525c2cd3.js",
+    "index.html": "/stoic-quotes/index.html",
+    "main.6c1811f7.css.map": "/stoic-quotes/static/css/main.6c1811f7.css.map",
+    "main.525c2cd3.js.map": "/stoic-quotes/static/js/main.525c2cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1811f7.css",
+    "static/js/main.525c2cd3.js"
+  ]
+}
