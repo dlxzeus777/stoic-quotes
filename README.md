@@ -4,4 +4,4 @@
 
 # Try it:
 
-- 
+- https://dlxzeus777.github.io/stoic-quotes/
